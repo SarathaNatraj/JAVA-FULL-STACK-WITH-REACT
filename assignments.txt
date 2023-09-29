@@ -1,0 +1,21 @@
+class AreaOfCircle{
+	public static void main(String[] args){
+		//declaring variable
+		//<data_type> variablename;
+		int r=5;
+
+		//initialising variable
+		double pi = 3.14;
+		
+		//re-assignment
+		r = 10;
+		
+
+		
+		
+		//processing statements
+		double area = pi * r * r;
+
+		System.out.println("The area of  circle with "+r+ " radius   is : "+area);
+	}
+}
